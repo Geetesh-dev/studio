@@ -1,3 +1,11 @@
+
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "recipe-1",
+      "description": "A healthy and delicious meal.",
+      "imageUrl": "https://picsum.photos/seed/recipe1/600/400",
+      "imageHint": "healthy food"
+    }
+  ]
 }
